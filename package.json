@@ -1,0 +1,9 @@
+{
+  "name": "skendo",
+  "version": "1.0.0",
+  "description": "Skendorenholdet website",
+  "scripts": {
+    "dev": "http-server -c-1 -o",
+    "build": "echo 'No build needed for static site'"
+  }
+}
